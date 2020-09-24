@@ -1,2 +1,2 @@
 # DCA_Bootstrap
-Uncertainty Quantification using modified Bootstrap
+Uncertainty Quantification in DCA using modified Bootstrap
